@@ -18,6 +18,7 @@ public class ExCOD1Av {
         int PrimerCommitMain;
         int SegundoCommitMain;
         int PrimerCommitExp;
+        int SegundoCommitExp;
     }
     
 }
